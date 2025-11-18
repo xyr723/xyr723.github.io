@@ -1,6 +1,6 @@
 
 import './App.css';
-import { Routes, Route, NavLink, Link } from 'react-router-dom';
+import { NavLink, Link, Outlet } from 'react-router-dom';
 import {
   LuSparkles,
   LuCalendarClock,
@@ -76,7 +76,7 @@ function HomePage() {
   );
 }
 
-function App() {
+function RootLayout() {
   return (
     <div className="app-shell">
       <header className="site-header">
@@ -100,13 +100,27 @@ function App() {
         </nav>
       </header>
       <main>
-        <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/blog" element={<BlogPage />} />
-        </Routes>
+        <Outlet />
       </main>
     </div>
   );
 }
 
-export default App;
+export const routes = [
+  {
+    path: '/',
+    Component: RootLayout,
+    children: [
+      {
+        index: true,
+        Component: HomePage,
+      },
+      {
+        path: 'blog',
+        Component: BlogPage,
+      },
+    ],
+  },
+];
+
+export default routes;

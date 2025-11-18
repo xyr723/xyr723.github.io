@@ -32,7 +32,7 @@ const posts = [
       '尝试把新的 action API、自动批处理和并发功能引入到个人博客中，一边调色一边记录下踩过的坑。',
     tags: ['前端体验', 'React 19'],
     date: '2024.09',
-    heroNote: '周六午后 · 咖啡续杯两次 · 修复了导航闪烁',
+    heroNote: '周日午后 · 咖啡续杯两次 · 修复了导航闪烁',
     sections: [
       {
         heading: 'Action API：写作表单终于不再手忙脚乱',

@@ -9,6 +9,8 @@ import {
   LuNotebookPen,
 } from 'react-icons/lu';
 import BlogPage from './pages/BlogPage.jsx';
+import PostPage from './pages/PostPage.jsx';
+import posts from './data/posts.js';
 
 const tools = [
   {
@@ -106,6 +108,14 @@ function RootLayout() {
   );
 }
 
+async function postLoader({ params }) {
+  const post = posts.find((item) => item.slug === params.slug);
+  if (!post) {
+    throw new Response('Not Found', { status: 404 });
+  }
+  return post;
+}
+
 export const routes = [
   {
     path: '/',
@@ -118,6 +128,12 @@ export const routes = [
       {
         path: 'blog',
         Component: BlogPage,
+      },
+      {
+        path: 'blog/:slug',
+        loader: postLoader,
+        Component: PostPage,
+        getStaticPaths: () => posts.map((post) => `blog/${post.slug}`),
       },
     ],
   },

@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import {
   LuPen,
   LuSparkles,
@@ -7,30 +8,12 @@ import {
   LuLink,
 } from 'react-icons/lu';
 import { FaBookOpen, FaRegStar } from 'react-icons/fa';
+import posts from '../data/posts.js';
 
 const blogStats = [
   { label: '累计文章', value: '68' },
   { label: '年度阅读', value: '129,480' },
   { label: '进行中的草稿', value: '5' },
-];
-
-const featuredPosts = [
-  {
-    title: '把城市的碎光折进博客：关于写作节奏的 4 个瞬间',
-    summary:
-      '记录一次凌晨写作 session，从想法捕捉、材料拆分到结构回填的全过程，顺便聊聊如何在忙碌里留出写字的仪式感。',
-    tags: ['写作手记', '创作日常'],
-    date: '2024.10',
-    link: 'https://your-blog-link.com/posts/writing-flow',
-  },
-  {
-    title: 'React 19 的那些可爱更新，让博客交互又轻盈了一点',
-    summary:
-      '尝试把新的 action API、自动批处理和并发功能引入到个人博客中，一边调色一边记录下踩过的坑。',
-    tags: ['前端体验', 'React 19'],
-    date: '2024.09',
-    link: 'https://your-blog-link.com/posts/react-19-notes',
-  },
 ];
 
 const writingPlans = [
@@ -133,7 +116,7 @@ function BlogPage() {
             近期精华
           </div>
           <div className="posts-list">
-            {featuredPosts.map((post) => (
+            {posts.map((post) => (
               <article className="post-card" key={post.title}>
                 <div className="post-head">
                   <span className="post-date">{post.date}</span>
@@ -147,10 +130,10 @@ function BlogPage() {
                       <span key={tag}>{tag}</span>
                     ))}
                   </div>
-                  <a href={post.link} target="_blank" rel="noreferrer">
+                  <Link to={`/blog/${post.slug}`}>
                     阅读更多
                     <LuLink />
-                  </a>
+                  </Link>
                 </div>
               </article>
             ))}

@@ -4,13 +4,20 @@ function PostPage() {
   const post = useLoaderData();
 
   return (
-    <article className="blog-page post-detail">
-      <header className="blog-hero">
-        <div className="hero-primary">
-          <p className="hero-subtitle">{post.date} · dearpanda</p>
-          <h1 className="hero-title">{post.title}</h1>
-          <p className="hero-description">{post.summary}</p>
-          <div className="hero-actions">
+    <article className="post-detail">
+      <header className="post-hero">
+        <div className="post-info">
+          <p className="post-breadcrumb">
+            {post.date} · dearpanda · {post.tags.join(' · ')}
+          </p>
+          <h1>{post.title}</h1>
+          <p className="post-summary">{post.summary}</p>
+          <div className="post-tags">
+            {post.tags.map((tag) => (
+              <span key={tag}>{tag}</span>
+            ))}
+          </div>
+          <div className="post-actions">
             <Link className="ghost-btn" to="/blog">
               ← 返回博客主页
             </Link>
@@ -20,31 +27,36 @@ function PostPage() {
               </a>
             ) : null}
           </div>
-          <div className="hero-stats">
-            <div className="stat-card">
-              <span className="stat-value">{post.date}</span>
-              <span className="stat-label">创作时间</span>
-            </div>
-            <div className="stat-card">
-              <span className="stat-value">{post.tags.join(' · ')}</span>
-              <span className="stat-label">主题标签</span>
-            </div>
-          </div>
         </div>
-        <div className="hero-sidecard">
-          <div className="sidecard-header">现场记录</div>
-          <p>{post.heroNote}</p>
+        <div className="post-meta-grid">
+          <div className="meta-card">
+            <span>创作时间</span>
+            <strong>{post.date}</strong>
+          </div>
+          <div className="meta-card">
+            <span>主题标签</span>
+            <strong>{post.tags.join(' · ')}</strong>
+          </div>
+          <div className="meta-card note">
+            <span>现场记录</span>
+            <p>{post.heroNote}</p>
+          </div>
         </div>
       </header>
 
-      {post.sections.map((section) => (
-        <section className="post-section" key={section.heading}>
-          <h2>{section.heading}</h2>
-          {section.body.map((paragraph) => (
-            <p key={paragraph}>{paragraph}</p>
-          ))}
-        </section>
-      ))}
+      <section className="post-sections">
+        {post.sections.map((section) => (
+          <article className="post-section" key={section.heading}>
+            <div className="section-heading">
+              <span>章节</span>
+              <h2>{section.heading}</h2>
+            </div>
+            {section.body.map((paragraph) => (
+              <p key={paragraph}>{paragraph}</p>
+            ))}
+          </article>
+        ))}
+      </section>
     </article>
   );
 }

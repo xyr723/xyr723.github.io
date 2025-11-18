@@ -14,12 +14,6 @@ import posts from './data/posts.js';
 
 const tools = [
   {
-    name: '个人博客',
-    description: '写字的据点',
-    link: 'https://your-blog-link.com',
-    icon: <LuSparkles />,
-  },
-  {
     name: '写作日历',
     description: '灵感补给站',
     link: '#',

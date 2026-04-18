@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/algolia.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:48:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</title><link>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/algolia.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:49:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 7 — 薄片层压（Sheet Lamination, SL）</title><link>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</guid><description>
+<![CDATA[<h1>Week 7 — 薄片层压（Sheet Lamination, SL）</h1><p>作者：xyr723（）</p>
+        
+          <blockquote>
+<p>3D 打印技术类别：<strong>Sheet Lamination — 薄片层压</strong>
+包含：LOM（纸/塑料层压）、Mcor SDL（全彩色纸打印）、Fabrisonic UAM / Ultrasonic Consolidation（金属超声焊接）、CAM-LEM（陶瓷）、Impossible Objects CBAM（碳纤维复合）、EnvisionTEC SLCOM（编织碳纤维）、NTU LAPIS（激光焊接+烧蚀）</p>
+        
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</title><link>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</guid><description>
 <![CDATA[<h1>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</h1><p>作者：xyr723（）</p>
         
           <blockquote>
@@ -90,13 +97,6 @@ Category: Introduction to AM / ASTM seven AM process categories / AM process cha
           <blockquote>
 <p>3D 打印技术类别：<strong>Binder Jetting — 粘结剂喷射</strong>
 包含：3D Systems ColorJet Printing（CJP，Z Corp 继承）、ExOne ProMetal（金属 / 砂 / 陶瓷）、Voxeljet VX（PMMA / 砂）、Aprecia ZipDose（药物打印）</p>
-        
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 7 — 薄片层压（Sheet Lamination, SL）</title><link>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</guid><description>
-<![CDATA[<h1>Week 7 — 薄片层压（Sheet Lamination, SL）</h1><p>作者：xyr723（）</p>
-        
-          <blockquote>
-<p>3D 打印技术类别：<strong>Sheet Lamination — 薄片层压</strong>
-包含：LOM（纸/塑料层压）、Mcor SDL（全彩色纸打印）、Fabrisonic UAM / Ultrasonic Consolidation（金属超声焊接）、CAM-LEM（陶瓷）、Impossible Objects CBAM（碳纤维复合）、EnvisionTEC SLCOM（编织碳纤维）、NTU LAPIS（激光焊接+烧蚀）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
 <![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：xyr723（）</p>

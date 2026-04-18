@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/algolia.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:47:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title> Week 2 — 槽式光聚合（Vat Photopolymerization, VPP）</title><link>https://xyr723.github.io/post/2026-04-19-week-2-vat-photopolymerization-vpp/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-2-vat-photopolymerization-vpp/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/algolia.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:47:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 3 — 材料挤出（Material Extrusion, ME）</title><link>https://xyr723.github.io/post/2026-04-19-week-3-material-extrusion-me/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-3-material-extrusion-me/</guid><description>
+<![CDATA[<h1>Week 3 — 材料挤出（Material Extrusion, ME）</h1><p>作者：xyr723（）</p>
+        
+          <blockquote>
+<p>3D 打印技术类别：<strong>Material Extrusion — 材料挤出</strong>
+包含：FDM/FFF、碳纤维打印、金属丝（ADAM）、混凝土打印、硅胶（DIW）、生物打印</p>
+</blockquote>
+<hr>
+<h2 id="一中文总结">
+<a class="header-anchor" href="#%e4%b8%80%e4%b8%ad%e6%96%87%e6%80%bb%e7%bb%93"></a>
+一、中文总结
+</h2><h3 id="1-基本定义">
+<a class="header-anchor" href="#1-%e5%9f%ba%e6%9c%ac%e5%ae%9a%e4%b9%89"></a>
+1. 基本定义
+</h3><p>材料经由喷嘴（nozzle）被选择性挤出并沉积在打印平台上，逐层堆叠形成三维实体的 AM 工艺。</p>
+        
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title> Week 2 — 槽式光聚合（Vat Photopolymerization, VPP）</title><link>https://xyr723.github.io/post/2026-04-19-week-2-vat-photopolymerization-vpp/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-2-vat-photopolymerization-vpp/</guid><description>
 <![CDATA[<h1> Week 2 — 槽式光聚合（Vat Photopolymerization, VPP）</h1><p>作者：xyr723（）</p>
         
           <blockquote>
@@ -81,22 +97,6 @@ Category: Introduction to AM / ASTM seven AM process categories / AM process cha
           <blockquote>
 <p>3D 打印技术类别：<strong>Material Jetting — 材料液滴喷射</strong>
 包含：Inkjet（CIJ / DOD 热式/压电/静电）、3D Systems Multi-Jet Printing（MJP/ProJet）、Stratasys PolyJet/Objet、XJet NPJ、Optomec Aerosol Jet、Nano Dimension AME（PCB 打印）</p>
-        
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 3 — 材料挤出（Material Extrusion, ME）</title><link>https://xyr723.github.io/post/2026-04-19-week-3-material-extrusion-me/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-3-material-extrusion-me/</guid><description>
-<![CDATA[<h1>Week 3 — 材料挤出（Material Extrusion, ME）</h1><p>作者：xyr723（）</p>
-        
-          <blockquote>
-<p>3D 打印技术类别：<strong>Material Extrusion — 材料挤出</strong>
-包含：FDM/FFF、碳纤维打印、金属丝（ADAM）、混凝土打印、硅胶（DIW）、生物打印</p>
-</blockquote>
-<hr>
-<h2 id="一中文总结">
-<a class="header-anchor" href="#%e4%b8%80%e4%b8%ad%e6%96%87%e6%80%bb%e7%bb%93"></a>
-一、中文总结
-</h2><h3 id="1-基本定义">
-<a class="header-anchor" href="#1-%e5%9f%ba%e6%9c%ac%e5%ae%9a%e4%b9%89"></a>
-1. 基本定义
-</h3><p>材料经由喷嘴（nozzle）被选择性挤出并沉积在打印平台上，逐层堆叠形成三维实体的 AM 工艺。</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
 <![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：xyr723（）</p>

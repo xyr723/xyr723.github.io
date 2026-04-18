@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D打印 on xyr723</title><link>https://xyr723.github.io/categories/3d%E6%89%93%E5%8D%B0/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:49:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/categories/3d%E6%89%93%E5%8D%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 7 — 薄片层压（Sheet Lamination, SL）</title><link>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D打印 on xyr723</title><link>https://xyr723.github.io/categories/3d%E6%89%93%E5%8D%B0/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:50:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/categories/3d%E6%89%93%E5%8D%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</guid><description>
+<![CDATA[<h1>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</h1><p>作者：xyr723（）</p>
+        
+          <blockquote>
+<p>3D 打印技术类别：<strong>Binder Jetting — 粘结剂喷射</strong>
+包含：3D Systems ColorJet Printing（CJP，Z Corp 继承）、ExOne ProMetal（金属 / 砂 / 陶瓷）、Voxeljet VX（PMMA / 砂）、Aprecia ZipDose（药物打印）</p>
+        
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 7 — 薄片层压（Sheet Lamination, SL）</title><link>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</guid><description>
 <![CDATA[<h1>Week 7 — 薄片层压（Sheet Lamination, SL）</h1><p>作者：xyr723（）</p>
         
           <blockquote>
@@ -90,12 +97,5 @@ Category: Introduction to AM / ASTM seven AM process categories / AM process cha
 <a class="header-anchor" href="#2-%e5%8e%9f%e5%9e%8b%e5%88%86%e7%b1%bbtypes-of-prototypes"></a>
 2. 原型分类（Types of Prototypes）
 </h3><p>从三个维度分类：</p>
-        
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</guid><description>
-<![CDATA[<h1>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</h1><p>作者：xyr723（）</p>
-        
-          <blockquote>
-<p>3D 打印技术类别：<strong>Binder Jetting — 粘结剂喷射</strong>
-包含：3D Systems ColorJet Printing（CJP，Z Corp 继承）、ExOne ProMetal（金属 / 砂 / 陶瓷）、Voxeljet VX（PMMA / 砂）、Aprecia ZipDose（药物打印）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item></channel></rss>

@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mora on xyr723</title><link>https://xyr723.github.io/tags/mora/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:48:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/mora/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 4 — 材料喷射（Material Jetting, MJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mora on xyr723</title><link>https://xyr723.github.io/tags/mora/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:48:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/mora/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</title><link>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</guid><description>
+<![CDATA[<h1>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</h1><p>作者：xyr723（）</p>
+        
+          <blockquote>
+<p>3D 打印技术类别：<strong>Powder Bed Fusion — 粉末床熔融</strong>
+包含：SLS（选择性激光烧结）、SLM / DMLS / LaserCusing（选择性激光熔融）、EBM（电子束熔融）、HP MJF（多喷射熔融）</p>
+        
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 4 — 材料喷射（Material Jetting, MJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</guid><description>
 <![CDATA[<h1>Week 4 — 材料喷射（Material Jetting, MJ）</h1><p>作者：xyr723（）</p>
         
           <blockquote>
@@ -90,13 +97,6 @@ Category: Introduction to AM / ASTM seven AM process categories / AM process cha
           <blockquote>
 <p>3D 打印技术类别：<strong>Directed Energy Deposition — 定向能量沉积</strong>
 包含：LMD / LENS（激光金属沉积）、DMG MORI Hybrid AM（激光 + 五轴铣削）、Sciaky EBAM（电子束丝材）、WAAM（电弧丝材）</p>
-        
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</title><link>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</guid><description>
-<![CDATA[<h1>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</h1><p>作者：xyr723（）</p>
-        
-          <blockquote>
-<p>3D 打印技术类别：<strong>Powder Bed Fusion — 粉末床熔融</strong>
-包含：SLS（选择性激光烧结）、SLM / DMLS / LaserCusing（选择性激光熔融）、EBM（电子束熔融）、HP MJF（多喷射熔融）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 00:00:00 +0800</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
 <![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：xyr723（）</p>

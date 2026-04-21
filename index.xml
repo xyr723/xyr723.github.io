@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/search.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:51:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 03:51:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
-<![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>课程：<strong>MA6514 Machine Learning and Data Science</strong>（南洋理工大学 NTU）
@@ -12,49 +12,49 @@
 <p>三份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题。</p>
         
         <hr><p>本文2026-04-18首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>机器学习</category></item><item><title>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</link><pubDate>Sun, 19 Apr 2026 03:50:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</guid><description>
-<![CDATA[<h1>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Binder Jetting — 粘结剂喷射</strong>
 包含：3D Systems ColorJet Printing（CJP，Z Corp 继承）、ExOne ProMetal（金属 / 砂 / 陶瓷）、Voxeljet VX（PMMA / 砂）、Aprecia ZipDose（药物打印）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 7 — 薄片层压（Sheet Lamination, SL）</title><link>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</link><pubDate>Sun, 19 Apr 2026 03:49:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</guid><description>
-<![CDATA[<h1>Week 7 — 薄片层压（Sheet Lamination, SL）</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1>Week 7 — 薄片层压（Sheet Lamination, SL）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Sheet Lamination — 薄片层压</strong>
 包含：LOM（纸/塑料层压）、Mcor SDL（全彩色纸打印）、Fabrisonic UAM / Ultrasonic Consolidation（金属超声焊接）、CAM-LEM（陶瓷）、Impossible Objects CBAM（碳纤维复合）、EnvisionTEC SLCOM（编织碳纤维）、NTU LAPIS（激光焊接+烧蚀）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 4 — 材料喷射（Material Jetting, MJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</link><pubDate>Sun, 19 Apr 2026 03:48:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</guid><description>
-<![CDATA[<h1>Week 4 — 材料喷射（Material Jetting, MJ）</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1>Week 4 — 材料喷射（Material Jetting, MJ）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Material Jetting — 材料液滴喷射</strong>
 包含：Inkjet（CIJ / DOD 热式/压电/静电）、3D Systems Multi-Jet Printing（MJP/ProJet）、Stratasys PolyJet/Objet、XJet NPJ、Optomec Aerosol Jet、Nano Dimension AME（PCB 打印）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</title><link>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</link><pubDate>Sun, 19 Apr 2026 03:48:01 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</guid><description>
-<![CDATA[<h1>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Powder Bed Fusion — 粉末床熔融</strong>
 包含：SLS（选择性激光烧结）、SLM / DMLS / LaserCusing（选择性激光熔融）、EBM（电子束熔融）、HP MJF（多喷射熔融）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</title><link>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</link><pubDate>Sun, 19 Apr 2026 03:48:02 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</guid><description>
-<![CDATA[<h1>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Directed Energy Deposition — 定向能量沉积</strong>
 包含：LMD / LENS（激光金属沉积）、DMG MORI Hybrid AM（激光 + 五轴铣削）、Sciaky EBAM（电子束丝材）、WAAM（电弧丝材）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title> Week 2 — 槽式光聚合（Vat Photopolymerization, VPP）</title><link>https://xyr723.github.io/post/2026-04-19-week-2-vat-photopolymerization-vpp/</link><pubDate>Sun, 19 Apr 2026 03:47:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-2-vat-photopolymerization-vpp/</guid><description>
-<![CDATA[<h1> Week 2 — 槽式光聚合（Vat Photopolymerization, VPP）</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1> Week 2 — 槽式光聚合（Vat Photopolymerization, VPP）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Vat Photopolymerization — 立体光固化 / 光敏树脂槽聚合</strong>
 包含：SLA、DLP、MSLA（LCD）、µ-SLA、TPP（双光子）、CLIP、HARP、Volumetric、3DCeram、多材料与功能梯度打印</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 3 — 材料挤出（Material Extrusion, ME）</title><link>https://xyr723.github.io/post/2026-04-19-week-3-material-extrusion-me/</link><pubDate>Sun, 19 Apr 2026 03:47:01 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-3-material-extrusion-me/</guid><description>
-<![CDATA[<h1>Week 3 — 材料挤出（Material Extrusion, ME）</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1>Week 3 — 材料挤出（Material Extrusion, ME）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Material Extrusion — 材料挤出</strong>
@@ -70,7 +70,7 @@
 </h3><p>材料经由喷嘴（nozzle）被选择性挤出并沉积在打印平台上，逐层堆叠形成三维实体的 AM 工艺。</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</title><link>https://xyr723.github.io/post/2026-04-19-ma6502/</link><pubDate>Sun, 19 Apr 2026 03:46:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-ma6502/</guid><description>
-<![CDATA[<h1>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>课程：<strong>MA6502 Fundamentals &amp; Advances in Additive Manufacturing</strong>（南洋理工大学 NTU）
@@ -82,7 +82,7 @@
 <p>两份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题，每题含若干小问。</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title> Week 1 — 增材制造（Additive Manufacturing, AM）总论</title><link>https://xyr723.github.io/post/2026-04-19-week-1-additive-manufacturing-am/</link><pubDate>Sun, 19 Apr 2026 03:46:01 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-1-additive-manufacturing-am/</guid><description>
-<![CDATA[<h1> Week 1 — 增材制造（Additive Manufacturing, AM）总论</h1><p>作者：xyr723（）</p>
+<![CDATA[<h1> Week 1 — 增材制造（Additive Manufacturing, AM）总论</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>知识点类别：3D 打印学科导论 / 七大 AM 工艺分类 / AM 工艺链（Process Chain）

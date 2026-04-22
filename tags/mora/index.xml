@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mora on xyr723</title><link>https://xyr723.github.io/tags/mora/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 22 Apr 2026 19:56:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/mora/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 03:51:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
-<![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：君辞（）</p>
-        
-          <blockquote>
-<p>课程：<strong>MA6514 Machine Learning and Data Science</strong>（南洋理工大学 NTU）
-来源 PDF：</p>
-<ul>
-<li><code>MA6514 2022-2023 Semester 2</code>（April/May 2023）</li>
-<li><code>MA6514 2024-2025 Semester 2</code>（April/May 2025）</li>
-<li><code>MA6514 2025-2026 Semester 1</code>（November/December 2025）</li>
-</ul>
-<p>三份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题。</p>
-        
-        <hr><p>本文2026-04-18首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-22</p>]]></description><category>机器学习</category></item><item><title>MA6501 Manufacturing Automation and Control 三年真题总结</title><link>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</link><pubDate>Wed, 22 Apr 2026 19:47:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mora on xyr723</title><link>https://xyr723.github.io/tags/mora/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Thu, 23 Apr 2026 01:44:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/mora/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6501 Manufacturing Automation and Control 三年真题总结</title><link>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</link><pubDate>Wed, 22 Apr 2026 19:47:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</guid><description>
 <![CDATA[<h1>MA6501 Manufacturing Automation and Control 三年真题总结</h1><p>作者：君辞（）</p>
         
           <blockquote>
@@ -60,7 +47,7 @@
       <tr>
           <td>机器人运动学 / Kinematics</td>
           <td>3-DOF RRP + 逆解</td>
-          <td>4-DOF P3R + A₂⁰=A₁⁰A₂¹ 展开</td>
+          <td>4-DOF P3R + $A_2^0 = A_1^0 A_2^1$ 展开</td>
           <td>7-DOF 双臂机器人 · DH 参数 + 正解</td>
       </tr>
       <tr>
@@ -71,34 +58,47 @@
       </tr>
       <tr>
           <td>电路 / Circuit</td>
-          <td>电桥 + 双运放 → V₂(δ)</td>
-          <td>电桥 + 单运放 → Vout(δ) + 工作台 τ→x 传递函数</td>
-          <td>Vi→Vo 含 C·L·R·RF 的频率响应 + Gp(s) 闭环设计</td>
+          <td>电桥 + 双运放 $\to V_2(\delta)$</td>
+          <td>电桥 + 单运放 $\to V_{out}(\delta)$ + 工作台 $\tau \to x$ 传递函数</td>
+          <td>$V_i \to V_o$ 含 $C, L, R, R_F$ 的频率响应 + $G_p(s)$ 闭环设计</td>
       </tr>
       <tr>
           <td>控制系统 / Control</td>
-          <td>H(s) 滤波类型 + 闭环 C(s)/R(s)</td>
-          <td>PI 控制器 1/(s²+0.5s+1) 峰值时间</td>
-          <td>PI 控制器：peak time 1.5 s，超调 5%，求 k₁/k₂</td>
+          <td>$H(s)$ 滤波类型 + 闭环 $C(s)/R(s)$</td>
+          <td>PI 控制器 $1/(s^2+0.5s+1)$ 峰值时间</td>
+          <td>PI 控制器：peak time 1.5 s，超调 5%，求 $k_1, k_2$</td>
       </tr>
       <tr>
           <td>生产线 / Production Line</td>
-          <td>20 h × 0.2% × 1.5 h · η=90%</td>
-          <td>35 h × 0.01% × 2 h · η=95%</td>
-          <td>10 h × 0.05% × 0.5 h · η=98%</td>
+          <td>20 h $\times$ 0.2% $\times$ 1.5 h，$\eta=90\%$</td>
+          <td>35 h $\times$ 0.01% $\times$ 2 h，$\eta=95\%$</td>
+          <td>10 h $\times$ 0.05% $\times$ 0.5 h，$\eta=98\%$</td>
       </tr>
       <tr>
           <td>视觉 / Vision</td>
-          <td>1024×1024 · Δu/Δv 不同 · 求传送带速度</td>
-          <td>2048×2048 · Δu/Δv 不同 · 求速度</td>
-          <td>2048×2048 · 求两点 A/B 真实距离</td>
+          <td>1024$\times$1024，$\Delta u/\Delta v$ 不同，求传送带速度</td>
+          <td>2048$\times$2048，$\Delta u/\Delta v$ 不同，求速度</td>
+          <td>2048$\times$2048，求两点 A/B 真实距离</td>
       </tr>
   </tbody>
 </table>
 <p><strong>结论 / Takeaway</strong>：
-三年考纲高度稳定 — <strong>Kutzbach 机构自由度 → DH 参数正逆解 → 电桥/运放电路 → 反馈控制闭环 → 生产线效率 → 机器视觉像素/世界坐标换算</strong>。每年只更换图形、数据和机器人构型，<strong>解题套路完全可复用</strong>。</p>
+三年考纲高度稳定：<strong>Kutzbach 机构自由度 $\to$ DH 参数正逆解 $\to$ 电桥/运放电路 $\to$ 反馈控制闭环 $\to$ 生产线效率 $\to$ 机器视觉像素/世界坐标换算</strong>。每年只更换图形、数据和机器人构型，<strong>解题套路完全可复用</strong>。</p>
         
-        <hr><p>本文2026-04-22首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-22</p>]]></description><category>自动化</category></item><item><title>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</link><pubDate>Sun, 19 Apr 2026 03:50:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</guid><description>
+        <hr><p>本文2026-04-22首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-23</p>]]></description><category>自动化</category></item><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 03:51:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
+<![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>课程：<strong>MA6514 Machine Learning and Data Science</strong>（南洋理工大学 NTU）
+来源 PDF：</p>
+<ul>
+<li><code>MA6514 2022-2023 Semester 2</code>（April/May 2023）</li>
+<li><code>MA6514 2024-2025 Semester 2</code>（April/May 2025）</li>
+<li><code>MA6514 2025-2026 Semester 1</code>（November/December 2025）</li>
+</ul>
+<p>三份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题。</p>
+        
+        <hr><p>本文2026-04-18首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-22</p>]]></description><category>机器学习</category></item><item><title>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</link><pubDate>Sun, 19 Apr 2026 03:50:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</guid><description>
 <![CDATA[<h1>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</h1><p>作者：君辞（）</p>
         
           <blockquote>

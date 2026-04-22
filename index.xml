@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/search.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 19 Apr 2026 03:51:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 03:51:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/search.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 22 Apr 2026 11:41:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>【Agent Skills】Skills、tools和MCP的区别</title><link>https://xyr723.github.io/post/2026-04-22-agent-skillsskillstoolsmcp/</link><pubDate>Wed, 22 Apr 2026 11:23:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-22-agent-skillsskillstoolsmcp/</guid><description>
+<![CDATA[<h1>【Agent Skills】Skills、tools和MCP的区别</h1><p>作者：君辞（）</p>
+        
+          <h2 id="一skills-vs-agent">
+<a class="header-anchor" href="#%e4%b8%80skills-vs-agent"></a>
+一、Skills VS Agent
+</h2>
+        
+        <hr><p>本文2026-04-22首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-22</p>]]></description><category>Agent</category></item><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 03:51:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
 <![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：君辞（）</p>
         
           <blockquote>
@@ -80,35 +88,5 @@
 <li><code>MA6502 2023-2024 Semester 2</code>（April/May 2024）</li>
 </ul>
 <p>两份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题，每题含若干小问。</p>
-        
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title> Week 1 — 增材制造（Additive Manufacturing, AM）总论</title><link>https://xyr723.github.io/post/2026-04-19-week-1-additive-manufacturing-am/</link><pubDate>Sun, 19 Apr 2026 03:46:01 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-1-additive-manufacturing-am/</guid><description>
-<![CDATA[<h1> Week 1 — 增材制造（Additive Manufacturing, AM）总论</h1><p>作者：君辞（）</p>
-        
-          <blockquote>
-<p>知识点类别：3D 打印学科导论 / 七大 AM 工艺分类 / AM 工艺链（Process Chain）
-Category: Introduction to AM / ASTM seven AM process categories / AM process chain</p>
-</blockquote>
-<hr>
-<h2 id="一中文总结">
-<a class="header-anchor" href="#%e4%b8%80%e4%b8%ad%e6%96%87%e6%80%bb%e7%bb%93"></a>
-一、中文总结
-</h2><h3 id="1-基本概念what-is-am">
-<a class="header-anchor" href="#1-%e5%9f%ba%e6%9c%ac%e6%a6%82%e5%bf%b5what-is-am"></a>
-1. 基本概念（What is AM）
-</h3><ul>
-<li><strong>定义</strong>：直接根据 CAD 数据逐层堆积（layer-by-layer）构建三维实体的制造方法。</li>
-<li><strong>别名</strong>：3D Printing、Rapid Prototyping（RP）、Layered Manufacturing、Solid Freeform Fabrication。</li>
-<li>与传统制造的对比：
-<ul>
-<li><strong>Subtractive（减材）</strong>：从大块材料去除多余部分（铣、车、钻、EDM、激光切割等）。</li>
-<li><strong>Formative（等材/成形）</strong>：通过外力塑形（锻造、弯曲、注塑等）。</li>
-<li><strong>Additive（增材）</strong>：逐层添加材料形成目标形状（SLA、SLS 等）。</li>
-</ul>
-</li>
-</ul>
-<h3 id="2-原型分类types-of-prototypes">
-<a class="header-anchor" href="#2-%e5%8e%9f%e5%9e%8b%e5%88%86%e7%b1%bbtypes-of-prototypes"></a>
-2. 原型分类（Types of Prototypes）
-</h3><p>从三个维度分类：</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item></channel></rss>

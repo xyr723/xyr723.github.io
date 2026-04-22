@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>自动化 on xyr723</title><link>https://xyr723.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 22 Apr 2026 19:49:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6501 Manufacturing Automation and Control 三年真题总结</title><link>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</link><pubDate>Wed, 22 Apr 2026 19:47:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</guid><description>
+<![CDATA[<h1>MA6501 Manufacturing Automation and Control 三年真题总结</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>课程：MA6501 Manufacturing Automation and Control（制造自动化与控制）
+学校：Nanyang Technological University（南洋理工大学）
+来源 PDF：</p>
+<ul>
+<li>MA6501 2023-2024 Semester 1.pdf（8 页，4 大题）</li>
+<li>MA6501 2024-2025 Semester 1.pdf（8 页，4 大题）</li>
+<li>MA6501 2025-2026 Semester 1.pdf（16 页，4 大题，总分 100）
+考试形式：3 小时 · OPEN-BOOK · 所有题目均必答</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="一三年试卷整体对比year-by-year-overview">
+<a class="header-anchor" href="#%e4%b8%80%e4%b8%89%e5%b9%b4%e8%af%95%e5%8d%b7%e6%95%b4%e4%bd%93%e5%af%b9%e6%af%94year-by-year-overview"></a>
+一、三年试卷整体对比（Year-by-Year Overview）
+</h2><table>
+  <thead>
+      <tr>
+          <th>维度 / Dimension</th>
+          <th>2023-2024</th>
+          <th>2024-2025</th>
+          <th>2025-2026</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>题量 / Questions</td>
+          <td>4 大题</td>
+          <td>4 大题</td>
+          <td>4 大题（每题 25 分）</td>
+      </tr>
+      <tr>
+          <td>页数 / Pages</td>
+          <td>7</td>
+          <td>7</td>
+          <td>15</td>
+      </tr>
+      <tr>
+          <td>机构分析 / Mobility</td>
+          <td>空间机构 2 个（果实采摘 + 7 构件机械臂）</td>
+          <td>空间机构 2 个（织机挂钩 + 送针机构）</td>
+          <td>平行机构 2 个（5-bar + 4-bar）</td>
+      </tr>
+      <tr>
+          <td>机器人运动学 / Kinematics</td>
+          <td>3-DOF RRP + 逆解</td>
+          <td>4-DOF P3R + A₂⁰=A₁⁰A₂¹ 展开</td>
+          <td>7-DOF 双臂机器人 · DH 参数 + 正解</td>
+      </tr>
+      <tr>
+          <td>案例题 / Case Study</td>
+          <td>机上餐车装配（Picking/Assembly/Loading）</td>
+          <td>飞机机翼铣削（移动 + 末端切削）</td>
+          <td>机场/邮轮行李搬运（自主移动 + 25 kg 上下载）</td>
+      </tr>
+      <tr>
+          <td>电路 / Circuit</td>
+          <td>电桥 + 双运放 → V₂(δ)</td>
+          <td>电桥 + 单运放 → Vout(δ) + 工作台 τ→x 传递函数</td>
+          <td>Vi→Vo 含 C·L·R·RF 的频率响应 + Gp(s) 闭环设计</td>
+      </tr>
+      <tr>
+          <td>控制系统 / Control</td>
+          <td>H(s) 滤波类型 + 闭环 C(s)/R(s)</td>
+          <td>PI 控制器 1/(s²+0.5s+1) 峰值时间</td>
+          <td>PI 控制器：peak time 1.5 s，超调 5%，求 k₁/k₂</td>
+      </tr>
+      <tr>
+          <td>生产线 / Production Line</td>
+          <td>20 h × 0.2% × 1.5 h · η=90%</td>
+          <td>35 h × 0.01% × 2 h · η=95%</td>
+          <td>10 h × 0.05% × 0.5 h · η=98%</td>
+      </tr>
+      <tr>
+          <td>视觉 / Vision</td>
+          <td>1024×1024 · Δu/Δv 不同 · 求传送带速度</td>
+          <td>2048×2048 · Δu/Δv 不同 · 求速度</td>
+          <td>2048×2048 · 求两点 A/B 真实距离</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>结论 / Takeaway</strong>：
+三年考纲高度稳定 — <strong>Kutzbach 机构自由度 → DH 参数正逆解 → 电桥/运放电路 → 反馈控制闭环 → 生产线效率 → 机器视觉像素/世界坐标换算</strong>。每年只更换图形、数据和机器人构型，<strong>解题套路完全可复用</strong>。</p>
+        
+        <hr><p>本文2026-04-22首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-22</p>]]></description><category>自动化</category></item></channel></rss>

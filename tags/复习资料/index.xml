@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>复习资料 on xyr723</title><link>https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sat, 25 Apr 2026 21:10:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 03:51:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>复习资料 on xyr723</title><link>https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 26 Apr 2026 00:55:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6514 三年试卷计算题零基础详解</title><link>https://xyr723.github.io/post/2026-04-26-ma6514/</link><pubDate>Sun, 26 Apr 2026 00:54:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-26-ma6514/</guid><description>
+<![CDATA[<h1>MA6514 三年试卷计算题零基础详解</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>适用试卷：</p>
+<ul>
+<li><code>MA6514 2022-2023 Semester 2</code></li>
+<li><code>MA6514 2024-2025 Semester 2</code></li>
+<li><code>MA6514 2025-2026 Semester 1</code></li>
+</ul>
+<p>本文只讲三类内容：</p>
+<ul>
+<li>需要算式子的题</li>
+<li>需要推公式或解释公式的题</li>
+<li>需要读代码、写伪代码、说明算法步骤的题</li>
+</ul>
+<p>本文不展开 Q1 那类纯概念/论述题。</p>
+        
+        <hr><p>本文2026-04-26首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-26</p>]]></description><category>机器学习</category></item><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 03:51:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
 <![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：君辞（）</p>
         
           <blockquote>
@@ -155,17 +173,5 @@
 <a class="header-anchor" href="#1-%e5%9f%ba%e6%9c%ac%e5%ae%9a%e4%b9%89"></a>
 1. 基本定义
 </h3><p>材料经由喷嘴（nozzle）被选择性挤出并沉积在打印平台上，逐层堆叠形成三维实体的 AM 工艺。</p>
-        
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</title><link>https://xyr723.github.io/post/2026-04-19-ma6502/</link><pubDate>Sun, 19 Apr 2026 03:46:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-ma6502/</guid><description>
-<![CDATA[<h1>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</h1><p>作者：君辞（）</p>
-        
-          <blockquote>
-<p>课程：<strong>MA6502 Fundamentals &amp; Advances in Additive Manufacturing</strong>（南洋理工大学 NTU）
-来源 PDF：</p>
-<ul>
-<li><code>MA6502 2022-2023 Semester 2</code>（April/May 2023）</li>
-<li><code>MA6502 2023-2024 Semester 2</code>（April/May 2024）</li>
-</ul>
-<p>两份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题，每题含若干小问。</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item></channel></rss>

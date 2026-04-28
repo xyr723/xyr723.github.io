@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/search.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 29 Apr 2026 02:09:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6502 — 增材制造文件格式 + DfAM + 基准测试</title><link>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</link><pubDate>Wed, 29 Apr 2026 02:08:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/search.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 29 Apr 2026 03:46:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</title><link>https://xyr723.github.io/post/2026-04-19-ma6502/</link><pubDate>Sun, 19 Apr 2026 03:46:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-ma6502/</guid><description>
+<![CDATA[<h1>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>课程：<strong>MA6502 Fundamentals &amp; Advances in Additive Manufacturing</strong>（南洋理工大学 NTU）
+来源 PDF：</p>
+<ul>
+<li><code>MA6502 2022-2023 Semester 2</code>（April/May 2023）</li>
+<li><code>MA6502 2023-2024 Semester 2</code>（April/May 2024）</li>
+</ul>
+<p>两份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题，每题含若干小问。</p>
+        
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-29</p>]]></description><category>3D打印</category></item><item><title>MA6502 — 增材制造文件格式 + DfAM + 基准测试</title><link>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</link><pubDate>Wed, 29 Apr 2026 02:08:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</guid><description>
 <![CDATA[<h1>MA6502 — 增材制造文件格式 + DfAM + 基准测试</h1><p>作者：君辞（）</p>
         
           <blockquote>
@@ -180,12 +192,5 @@ Skills 与 MCP
           <blockquote>
 <p>3D 打印技术类别：<strong>Material Jetting — 材料液滴喷射</strong>
 包含：Inkjet（CIJ / DOD 热式/压电/静电）、3D Systems Multi-Jet Printing（MJP/ProJet）、Stratasys PolyJet/Objet、XJet NPJ、Optomec Aerosol Jet、Nano Dimension AME（PCB 打印）</p>
-        
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</title><link>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</link><pubDate>Sun, 19 Apr 2026 03:48:01 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</guid><description>
-<![CDATA[<h1>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</h1><p>作者：君辞（）</p>
-        
-          <blockquote>
-<p>3D 打印技术类别：<strong>Powder Bed Fusion — 粉末床熔融</strong>
-包含：SLS（选择性激光烧结）、SLM / DMLS / LaserCusing（选择性激光熔融）、EBM（电子束熔融）、HP MJF（多喷射熔融）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item></channel></rss>

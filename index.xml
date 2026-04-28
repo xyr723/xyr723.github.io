@@ -17,7 +17,7 @@
 <p>知识点类别：<strong>3D 打印数据格式 &amp; 面向增材制造设计 &amp; 性能基准测试</strong></p>
 <p>包括：STL 格式 / Tessellation（镶嵌）/ STL 缺陷与修复 / AMF / 3MF / DfAM / 仿真建模 / NIST 测试样件</p>
         
-        <hr><p>本文2026-04-29首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-29</p>]]></description></item><item><title>【LangChain】底层逻辑</title><link>https://xyr723.github.io/post/2026-04-28-langchain/</link><pubDate>Tue, 28 Apr 2026 17:35:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-28-langchain/</guid><description>
+        <hr><p>本文2026-04-29首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-29</p>]]></description><category>3D打印</category></item><item><title>【LangChain】底层逻辑</title><link>https://xyr723.github.io/post/2026-04-28-langchain/</link><pubDate>Tue, 28 Apr 2026 17:35:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-28-langchain/</guid><description>
 <![CDATA[<h1>【LangChain】底层逻辑</h1><p>作者：君辞（）</p>
         
           <h2 id="1什么是langchain">

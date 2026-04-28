@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/search.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Tue, 28 Apr 2026 17:35:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>【LangChain】底层逻辑</title><link>https://xyr723.github.io/post/2026-04-28-langchain/</link><pubDate>Tue, 28 Apr 2026 17:35:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-28-langchain/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xyr723</title><link>https://xyr723.github.io/search.json</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 29 Apr 2026 02:09:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6502 — 增材制造文件格式 + DfAM + 基准测试</title><link>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</link><pubDate>Wed, 29 Apr 2026 02:08:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</guid><description>
+<![CDATA[<h1>MA6502 — 增材制造文件格式 + DfAM + 基准测试</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>知识点类别：<strong>3D 打印数据格式 &amp; 面向增材制造设计 &amp; 性能基准测试</strong></p>
+<p>包括：STL 格式 / Tessellation（镶嵌）/ STL 缺陷与修复 / AMF / 3MF / DfAM / 仿真建模 / NIST 测试样件</p>
+        
+        <hr><p>本文2026-04-29首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-29</p>]]></description></item><item><title>【LangChain】底层逻辑</title><link>https://xyr723.github.io/post/2026-04-28-langchain/</link><pubDate>Tue, 28 Apr 2026 17:35:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-28-langchain/</guid><description>
 <![CDATA[<h1>【LangChain】底层逻辑</h1><p>作者：君辞（）</p>
         
           <h2 id="1什么是langchain">
@@ -180,12 +187,5 @@ Skills 与 MCP
           <blockquote>
 <p>3D 打印技术类别：<strong>Powder Bed Fusion — 粉末床熔融</strong>
 包含：SLS（选择性激光烧结）、SLM / DMLS / LaserCusing（选择性激光熔融）、EBM（电子束熔融）、HP MJF（多喷射熔融）</p>
-        
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</title><link>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</link><pubDate>Sun, 19 Apr 2026 03:48:02 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</guid><description>
-<![CDATA[<h1>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</h1><p>作者：君辞（）</p>
-        
-          <blockquote>
-<p>3D 打印技术类别：<strong>Directed Energy Deposition — 定向能量沉积</strong>
-包含：LMD / LENS（激光金属沉积）、DMG MORI Hybrid AM（激光 + 五轴铣削）、Sciaky EBAM（电子束丝材）、WAAM（电弧丝材）</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item></channel></rss>

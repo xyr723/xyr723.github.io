@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>复习资料 on xyr723</title><link>https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 26 Apr 2026 00:55:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6514 三年试卷计算题零基础详解</title><link>https://xyr723.github.io/post/2026-04-26-ma6514/</link><pubDate>Sun, 26 Apr 2026 00:54:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-26-ma6514/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>复习资料 on xyr723</title><link>https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 29 Apr 2026 02:09:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6502 — 增材制造文件格式 + DfAM + 基准测试</title><link>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</link><pubDate>Wed, 29 Apr 2026 02:08:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</guid><description>
+<![CDATA[<h1>MA6502 — 增材制造文件格式 + DfAM + 基准测试</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>知识点类别：<strong>3D 打印数据格式 &amp; 面向增材制造设计 &amp; 性能基准测试</strong></p>
+<p>包括：STL 格式 / Tessellation（镶嵌）/ STL 缺陷与修复 / AMF / 3MF / DfAM / 仿真建模 / NIST 测试样件</p>
+        
+        <hr><p>本文2026-04-29首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-29</p>]]></description></item><item><title>MA6514 三年试卷计算题零基础详解</title><link>https://xyr723.github.io/post/2026-04-26-ma6514/</link><pubDate>Sun, 26 Apr 2026 00:54:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-26-ma6514/</guid><description>
 <![CDATA[<h1>MA6514 三年试卷计算题零基础详解</h1><p>作者：君辞（）</p>
         
           <blockquote>
@@ -157,21 +164,5 @@
           <blockquote>
 <p>3D 打印技术类别：<strong>Vat Photopolymerization — 立体光固化 / 光敏树脂槽聚合</strong>
 包含：SLA、DLP、MSLA（LCD）、µ-SLA、TPP（双光子）、CLIP、HARP、Volumetric、3DCeram、多材料与功能梯度打印</p>
-        
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 3 — 材料挤出（Material Extrusion, ME）</title><link>https://xyr723.github.io/post/2026-04-19-week-3-material-extrusion-me/</link><pubDate>Sun, 19 Apr 2026 03:47:01 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-3-material-extrusion-me/</guid><description>
-<![CDATA[<h1>Week 3 — 材料挤出（Material Extrusion, ME）</h1><p>作者：君辞（）</p>
-        
-          <blockquote>
-<p>3D 打印技术类别：<strong>Material Extrusion — 材料挤出</strong>
-包含：FDM/FFF、碳纤维打印、金属丝（ADAM）、混凝土打印、硅胶（DIW）、生物打印</p>
-</blockquote>
-<hr>
-<h2 id="一中文总结">
-<a class="header-anchor" href="#%e4%b8%80%e4%b8%ad%e6%96%87%e6%80%bb%e7%bb%93"></a>
-一、中文总结
-</h2><h3 id="1-基本定义">
-<a class="header-anchor" href="#1-%e5%9f%ba%e6%9c%ac%e5%ae%9a%e4%b9%89"></a>
-1. 基本定义
-</h3><p>材料经由喷嘴（nozzle）被选择性挤出并沉积在打印平台上，逐层堆叠形成三维实体的 AM 工艺。</p>
         
         <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item></channel></rss>

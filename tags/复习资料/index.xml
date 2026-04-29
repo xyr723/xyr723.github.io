@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>复习资料 on xyr723</title><link>https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/</link><description>Recent content from xyr723</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 29 Apr 2026 03:46:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</title><link>https://xyr723.github.io/post/2026-04-19-ma6502/</link><pubDate>Sun, 19 Apr 2026 03:46:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-ma6502/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>复习资料 on 君辞的个人空间</title><link>https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/</link><description>Recent content from 君辞的个人空间</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 29 Apr 2026 03:46:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/index.xml" rel="self" type="application/rss+xml"/><item><title>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</title><link>https://xyr723.github.io/post/2026-04-19-ma6502/</link><pubDate>Sun, 19 Apr 2026 03:46:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-ma6502/</guid><description>
 <![CDATA[<h1>MA6502 增材制造基础与进展 — 两年试卷总结与参考答案</h1><p>作者：君辞（）</p>
         
           <blockquote>
@@ -10,14 +10,14 @@
 </ul>
 <p>两份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题，每题含若干小问。</p>
         
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-29</p>]]></description><category>3D打印</category></item><item><title>MA6502 — 增材制造文件格式 + DfAM + 基准测试</title><link>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</link><pubDate>Wed, 29 Apr 2026 02:08:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</guid><description>
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-29</p>]]></description><category>3D打印</category></item><item><title>MA6502 — 增材制造文件格式 + DfAM + 基准测试</title><link>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</link><pubDate>Wed, 29 Apr 2026 02:08:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</guid><description>
 <![CDATA[<h1>MA6502 — 增材制造文件格式 + DfAM + 基准测试</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>知识点类别：<strong>3D 打印数据格式 &amp; 面向增材制造设计 &amp; 性能基准测试</strong></p>
 <p>包括：STL 格式 / Tessellation（镶嵌）/ STL 缺陷与修复 / AMF / 3MF / DfAM / 仿真建模 / NIST 测试样件</p>
         
-        <hr><p>本文2026-04-29首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-29</p>]]></description><category>3D打印</category></item><item><title>MA6514 三年试卷计算题零基础详解</title><link>https://xyr723.github.io/post/2026-04-26-ma6514/</link><pubDate>Sun, 26 Apr 2026 00:54:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-26-ma6514/</guid><description>
+        <hr><p>本文2026-04-29首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-29</p>]]></description><category>3D打印</category></item><item><title>MA6514 三年试卷计算题零基础详解</title><link>https://xyr723.github.io/post/2026-04-26-ma6514/</link><pubDate>Sun, 26 Apr 2026 00:54:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-26-ma6514/</guid><description>
 <![CDATA[<h1>MA6514 三年试卷计算题零基础详解</h1><p>作者：君辞（）</p>
         
           <blockquote>
@@ -35,7 +35,7 @@
 </ul>
 <p>本文不展开 Q1 那类纯概念/论述题。</p>
         
-        <hr><p>本文2026-04-26首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-26</p>]]></description><category>机器学习</category></item><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 03:51:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
+        <hr><p>本文2026-04-26首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-26</p>]]></description><category>机器学习</category></item><item><title>MA6514 机器学习与数据科学 ——— 三套试卷总结</title><link>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</link><pubDate>Sat, 18 Apr 2026 03:51:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-18-ma6514-machine-learning-and-data-science/</guid><description>
 <![CDATA[<h1>MA6514 机器学习与数据科学 ——— 三套试卷总结</h1><p>作者：君辞（）</p>
         
           <blockquote>
@@ -48,7 +48,7 @@
 </ul>
 <p>三份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题。</p>
         
-        <hr><p>本文2026-04-18首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-25</p>]]></description><category>机器学习</category></item><item><title>MA6501 Manufacturing Automation and Control 三年真题总结</title><link>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</link><pubDate>Wed, 22 Apr 2026 19:47:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</guid><description>
+        <hr><p>本文2026-04-18首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-25</p>]]></description><category>机器学习</category></item><item><title>MA6501 Manufacturing Automation and Control 三年真题总结</title><link>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</link><pubDate>Wed, 22 Apr 2026 19:47:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-22-ma6501-manufacturing-automation-and-control/</guid><description>
 <![CDATA[<h1>MA6501 Manufacturing Automation and Control 三年真题总结</h1><p>作者：君辞（）</p>
         
           <blockquote>
@@ -135,39 +135,39 @@
 <p><strong>结论 / Takeaway</strong>：
 三年考纲高度稳定：<strong>Kutzbach 机构自由度 $\to$ DH 参数正逆解 $\to$ 电桥/运放电路 $\to$ 反馈控制闭环 $\to$ 生产线效率 $\to$ 机器视觉像素/世界坐标换算</strong>。每年只更换图形、数据和机器人构型，<strong>解题套路完全可复用</strong>。</p>
         
-        <hr><p>本文2026-04-22首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-23</p>]]></description><category>自动化</category></item><item><title>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</link><pubDate>Sun, 19 Apr 2026 03:50:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</guid><description>
+        <hr><p>本文2026-04-22首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-23</p>]]></description><category>自动化</category></item><item><title>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</link><pubDate>Sun, 19 Apr 2026 03:50:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-8-binder-jetting-bj/</guid><description>
 <![CDATA[<h1>Week 8 — 粘结剂喷射（Binder Jetting, BJ）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Binder Jetting — 粘结剂喷射</strong>
 包含：3D Systems ColorJet Printing（CJP，Z Corp 继承）、ExOne ProMetal（金属 / 砂 / 陶瓷）、Voxeljet VX（PMMA / 砂）、Aprecia ZipDose（药物打印）</p>
         
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 7 — 薄片层压（Sheet Lamination, SL）</title><link>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</link><pubDate>Sun, 19 Apr 2026 03:49:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</guid><description>
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 7 — 薄片层压（Sheet Lamination, SL）</title><link>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</link><pubDate>Sun, 19 Apr 2026 03:49:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-7-sheet-lamination-sl/</guid><description>
 <![CDATA[<h1>Week 7 — 薄片层压（Sheet Lamination, SL）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Sheet Lamination — 薄片层压</strong>
 包含：LOM（纸/塑料层压）、Mcor SDL（全彩色纸打印）、Fabrisonic UAM / Ultrasonic Consolidation（金属超声焊接）、CAM-LEM（陶瓷）、Impossible Objects CBAM（碳纤维复合）、EnvisionTEC SLCOM（编织碳纤维）、NTU LAPIS（激光焊接+烧蚀）</p>
         
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 4 — 材料喷射（Material Jetting, MJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</link><pubDate>Sun, 19 Apr 2026 03:48:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</guid><description>
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 4 — 材料喷射（Material Jetting, MJ）</title><link>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</link><pubDate>Sun, 19 Apr 2026 03:48:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-4-material-jetting-mj/</guid><description>
 <![CDATA[<h1>Week 4 — 材料喷射（Material Jetting, MJ）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Material Jetting — 材料液滴喷射</strong>
 包含：Inkjet（CIJ / DOD 热式/压电/静电）、3D Systems Multi-Jet Printing（MJP/ProJet）、Stratasys PolyJet/Objet、XJet NPJ、Optomec Aerosol Jet、Nano Dimension AME（PCB 打印）</p>
         
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</title><link>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</link><pubDate>Sun, 19 Apr 2026 03:48:01 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</guid><description>
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</title><link>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</link><pubDate>Sun, 19 Apr 2026 03:48:01 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-5-powder-bed-fusion-pbf/</guid><description>
 <![CDATA[<h1>Week 5 — 粉末床熔融（Powder Bed Fusion, PBF）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Powder Bed Fusion — 粉末床熔融</strong>
 包含：SLS（选择性激光烧结）、SLM / DMLS / LaserCusing（选择性激光熔融）、EBM（电子束熔融）、HP MJF（多喷射熔融）</p>
         
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</title><link>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</link><pubDate>Sun, 19 Apr 2026 03:48:02 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</guid><description>
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item><item><title>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</title><link>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</link><pubDate>Sun, 19 Apr 2026 03:48:02 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-19-week-6-directed-energy-deposition-ded/</guid><description>
 <![CDATA[<h1>Week 6 — 定向能量沉积（Directed Energy Deposition, DED）</h1><p>作者：君辞（）</p>
         
           <blockquote>
 <p>3D 打印技术类别：<strong>Directed Energy Deposition — 定向能量沉积</strong>
 包含：LMD / LENS（激光金属沉积）、DMG MORI Hybrid AM（激光 + 五轴铣削）、Sciaky EBAM（电子束丝材）、WAAM（电弧丝材）</p>
         
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>xyr723</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item></channel></rss>
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-19</p>]]></description><category>3D打印</category></item></channel></rss>

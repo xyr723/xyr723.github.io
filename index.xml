@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>君辞的个人空间</title><link>https://xyr723.github.io/search.json</link><description>Recent content from 君辞的个人空间</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Thu, 07 May 2026 22:05:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo + GitHub Pages 个人博客部署搭建配置教程</title><link>https://xyr723.github.io/post/2026-05-07-hugo-github-pages/</link><pubDate>Thu, 07 May 2026 02:29:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-05-07-hugo-github-pages/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>君辞的个人空间</title><link>https://xyr723.github.io/search.json</link><description>Recent content from 君辞的个人空间</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Tue, 26 May 2026 18:16:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>【LangChain】底层逻辑</title><link>https://xyr723.github.io/post/2026-04-28-langchain/</link><pubDate>Tue, 28 Apr 2026 17:35:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-28-langchain/</guid><description>
+<![CDATA[<h1>【LangChain】底层逻辑</h1><p>作者：君辞（）</p>
+        
+          <h2 id="1什么是langchain">
+<a class="header-anchor" href="#1%e4%bb%80%e4%b9%88%e6%98%aflangchain"></a>
+1.什么是LangChain
+</h2><p>LangChain是一个开源的开发框架，使用Python构建基于大模型的AI应用相关的模块和工具。通过LangChain，可以完成LLM集成。</p>
+        
+        <hr><p>本文2026-04-28首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-05-26</p>]]></description><category>Agent学习</category></item><item><title>Hugo + GitHub Pages 个人博客部署搭建配置教程</title><link>https://xyr723.github.io/post/2026-05-07-hugo-github-pages/</link><pubDate>Thu, 07 May 2026 02:29:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-05-07-hugo-github-pages/</guid><description>
 <![CDATA[<h1>Hugo + GitHub Pages 个人博客部署搭建配置教程</h1><p>作者：君辞（）</p>
         
           <p><code>USERNAME</code>、<code>SOURCE_REPO</code>、<code>THEME_NAME</code>、<code>THEME_REPO_URL</code> 实际操作时，替换成自己的 GitHub 用户名、源码仓名称和主题信息。</p>
@@ -15,15 +23,7 @@
 </ul>
 <p>两份均为 <strong>闭卷考试</strong>，时间 3 小时，含 4 道必答大题，每题含若干小问。</p>
         
-        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-29</p>]]></description><category>3D打印</category></item><item><title>【LangChain】底层逻辑</title><link>https://xyr723.github.io/post/2026-04-28-langchain/</link><pubDate>Tue, 28 Apr 2026 17:35:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-28-langchain/</guid><description>
-<![CDATA[<h1>【LangChain】底层逻辑</h1><p>作者：君辞（）</p>
-        
-          <h2 id="1什么是langchain">
-<a class="header-anchor" href="#1%e4%bb%80%e4%b9%88%e6%98%aflangchain"></a>
-1.什么是LangChain
-</h2><p>LangChain是一个开源的开发框架，使用Python构建基于大模型的AI应用相关的模块和工具。通过LangChain，可以完成LLM集成。</p>
-        
-        <hr><p>本文2026-04-28首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-29</p>]]></description><category>Agent学习</category></item><item><title>MA6502 — 增材制造文件格式 + DfAM + 基准测试</title><link>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</link><pubDate>Wed, 29 Apr 2026 02:08:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</guid><description>
+        <hr><p>本文2026-04-19首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-04-29</p>]]></description><category>3D打印</category></item><item><title>MA6502 — 增材制造文件格式 + DfAM + 基准测试</title><link>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</link><pubDate>Wed, 29 Apr 2026 02:08:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-04-29-ma6502-dfam/</guid><description>
 <![CDATA[<h1>MA6502 — 增材制造文件格式 + DfAM + 基准测试</h1><p>作者：君辞（）</p>
         
           <blockquote>

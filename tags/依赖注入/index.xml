@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>依赖注入 on 君辞的个人空间</title><link>https://xyr723.github.io/tags/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5/</link><description>Recent content from 君辞的个人空间</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Tue, 26 May 2026 20:23:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5/index.xml" rel="self" type="application/rss+xml"/><item><title>【后端 · FastAPI】依赖注入机制</title><link>https://xyr723.github.io/post/2026-05-26-fastapi-1/</link><pubDate>Tue, 26 May 2026 20:23:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-05-26-fastapi-1/</guid><description>
+<![CDATA[<h1>【后端 · FastAPI】依赖注入机制</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>依赖注入（Dependency Injection）是 FastAPI 最强大的特性之一，也是理解 FastAPI 架构的关键。本文从概念到实战，系统讲解 Depends 的用法、嵌套依赖、数据库会话管理、认证鉴权和权限控制。</p>
+        
+        <hr><p>本文2026-05-26首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-05-26</p>]]></description><category>FastAPI 与 RESTful API</category></item></channel></rss>

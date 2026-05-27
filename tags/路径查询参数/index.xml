@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>路径、查询参数 on 君辞的个人空间</title><link>https://xyr723.github.io/tags/%E8%B7%AF%E5%BE%84%E6%9F%A5%E8%AF%A2%E5%8F%82%E6%95%B0/</link><description>Recent content from 君辞的个人空间</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Tue, 26 May 2026 19:52:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E8%B7%AF%E5%BE%84%E6%9F%A5%E8%AF%A2%E5%8F%82%E6%95%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>【后端 · FastAPI】FastAPI 快速入门与核心特性</title><link>https://xyr723.github.io/post/2026-05-26-fastapi/</link><pubDate>Tue, 26 May 2026 19:50:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-05-26-fastapi/</guid><description>
+<![CDATA[<h1>【后端 · FastAPI】FastAPI 快速入门与核心特性</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>FastAPI 是当前 Python 生态中增长最快的 Web 框架，以高性能、自动文档和类型安全著称。本文从环境搭建开始，带你掌握路径参数、查询参数、请求体、响应模型等核心特性，最终完成一个完整的 CRUD API。</p>
+        
+        <hr><p>本文2026-05-26首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-05-26</p>]]></description><category>FastAPI 与 RESTful API</category></item></channel></rss>

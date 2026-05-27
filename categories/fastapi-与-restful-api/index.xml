@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FastAPI 与 RESTful API on 君辞的个人空间</title><link>https://xyr723.github.io/categories/fastapi-%E4%B8%8E-restful-api/</link><description>Recent content from 君辞的个人空间</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Tue, 26 May 2026 20:23:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/categories/fastapi-%E4%B8%8E-restful-api/index.xml" rel="self" type="application/rss+xml"/><item><title>【后端 · FastAPI】依赖注入机制</title><link>https://xyr723.github.io/post/2026-05-26-fastapi-1/</link><pubDate>Tue, 26 May 2026 20:23:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-05-26-fastapi-1/</guid><description>
+<![CDATA[<h1>【后端 · FastAPI】依赖注入机制</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>依赖注入（Dependency Injection）是 FastAPI 最强大的特性之一，也是理解 FastAPI 架构的关键。本文从概念到实战，系统讲解 Depends 的用法、嵌套依赖、数据库会话管理、认证鉴权和权限控制。</p>
+        
+        <hr><p>本文2026-05-26首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-05-26</p>]]></description><category>FastAPI 与 RESTful API</category></item><item><title>【后端 · 数据层】Pydantic 数据验证与序列化</title><link>https://xyr723.github.io/post/2026-05-26-pydantic/</link><pubDate>Tue, 26 May 2026 19:59:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-05-26-pydantic/</guid><description>
+<![CDATA[<h1>【后端 · 数据层】Pydantic 数据验证与序列化</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>Pydantic 是 FastAPI 的数据层基石。本文深入 Pydantic v2 的模型定义、字段验证、自定义验证器、嵌套模型、序列化控制和配置管理，帮你掌握类型安全的数据处理能力。</p>
+</blockquote>
+<hr>
+<h2 id="31-pydantic-是什么">
+<a class="header-anchor" href="#31-pydantic-%e6%98%af%e4%bb%80%e4%b9%88"></a>
+3.1 Pydantic 是什么
+</h2><p>Pydantic 是一个基于 Python 类型提示的数据验证和序列化库。它的核心理念：<strong>用类型提示定义数据结构，运行时自动验证和转换</strong>。</p>
+        
+        <hr><p>本文2026-05-26首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-05-26</p>]]></description><category>FastAPI 与 RESTful API</category></item><item><title>【后端 · FastAPI】FastAPI 快速入门与核心特性</title><link>https://xyr723.github.io/post/2026-05-26-fastapi/</link><pubDate>Tue, 26 May 2026 19:50:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-05-26-fastapi/</guid><description>
+<![CDATA[<h1>【后端 · FastAPI】FastAPI 快速入门与核心特性</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>FastAPI 是当前 Python 生态中增长最快的 Web 框架，以高性能、自动文档和类型安全著称。本文从环境搭建开始，带你掌握路径参数、查询参数、请求体、响应模型等核心特性，最终完成一个完整的 CRUD API。</p>
+        
+        <hr><p>本文2026-05-26首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-05-26</p>]]></description><category>FastAPI 与 RESTful API</category></item><item><title>【后端 · API设计】RESTful API 设计原则与规范</title><link>https://xyr723.github.io/post/2026-05-26-restful-api/</link><pubDate>Tue, 26 May 2026 19:32:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-05-26-restful-api/</guid><description>
+<![CDATA[<h1>【后端 · API设计】RESTful API 设计原则与规范</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>好的 API 设计是后端服务的基石。本文系统梳理 REST 架构风格的核心约束、URL 设计规范、HTTP 方法语义、状态码使用、统一响应格式、分页策略和版本控制方案。</p>
+        
+        <hr><p>本文2026-05-26首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-05-26</p>]]></description><category>FastAPI 与 RESTful API</category></item></channel></rss>

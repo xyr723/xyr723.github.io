@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>序列化 on 君辞的个人空间</title><link>https://xyr723.github.io/tags/%E5%BA%8F%E5%88%97%E5%8C%96/</link><description>Recent content from 君辞的个人空间</description><generator>Hugo</generator><language>zh-CN</language><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Tue, 26 May 2026 20:02:00 +0000</lastBuildDate><atom:link href="https://xyr723.github.io/tags/%E5%BA%8F%E5%88%97%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>【后端 · 数据层】Pydantic 数据验证与序列化</title><link>https://xyr723.github.io/post/2026-05-26-pydantic/</link><pubDate>Tue, 26 May 2026 19:59:00 +0000</pubDate><guid>https://xyr723.github.io/post/2026-05-26-pydantic/</guid><description>
+<![CDATA[<h1>【后端 · 数据层】Pydantic 数据验证与序列化</h1><p>作者：君辞（）</p>
+        
+          <blockquote>
+<p>Pydantic 是 FastAPI 的数据层基石。本文深入 Pydantic v2 的模型定义、字段验证、自定义验证器、嵌套模型、序列化控制和配置管理，帮你掌握类型安全的数据处理能力。</p>
+</blockquote>
+<hr>
+<h2 id="31-pydantic-是什么">
+<a class="header-anchor" href="#31-pydantic-%e6%98%af%e4%bb%80%e4%b9%88"></a>
+3.1 Pydantic 是什么
+</h2><p>Pydantic 是一个基于 Python 类型提示的数据验证和序列化库。它的核心理念：<strong>用类型提示定义数据结构，运行时自动验证和转换</strong>。</p>
+        
+        <hr><p>本文2026-05-26首发于<a href='https://xyr723.github.io/'>君辞的个人空间</a>，最后修改于2026-05-26</p>]]></description><category>FastAPI 与 RESTful API</category></item></channel></rss>

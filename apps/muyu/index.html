@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#120d0b">
+  <meta name="description" content="轻敲电子木鱼，记录今日与累计功德。">
+  <title>电子木鱼 · 静心积功德</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="muyu-shell">
+    <header class="topbar">
+      <div class="title-group">
+        <p class="eyebrow">一念清净</p>
+        <h1>电子木鱼</h1>
+      </div>
+      <div class="toggles" aria-label="反馈设置">
+        <button type="button" class="toggle" data-sound aria-pressed="true">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4Zm12.5-.8a5 5 0 0 1 0 7.6M18.8 5a9 9 0 0 1 0 14"/></svg>
+          <span class="toggle-label">声音</span><span class="toggle-state">开</span>
+        </button>
+        <button type="button" class="toggle" data-vibration aria-pressed="true">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5h8v14H8zM4 8v8M1.5 10v4M20 8v8M22.5 10v4"/></svg>
+          <span class="toggle-label">震动</span><span class="toggle-state">开</span>
+        </button>
+      </div>
+    </header>
+
+    <section class="merit-panel" aria-label="功德记录">
+      <div class="merit-item">
+        <span>今日功德</span>
+        <strong data-today>0</strong>
+      </div>
+      <i aria-hidden="true"></i>
+      <div class="merit-item">
+        <span>累计功德</span>
+        <strong data-total>0</strong>
+      </div>
+    </section>
+
+    <section class="muyu-stage" aria-label="电子木鱼">
+      <div class="resonance" aria-hidden="true"><span></span><span></span><span></span></div>
+      <div class="float-layer" data-float-layer aria-hidden="true"></div>
+      <button type="button" class="muyu-button" data-muyu aria-label="敲一下木鱼，功德加一">
+        <span class="muyu-visual" aria-hidden="true">
+          <img class="mallet-photo" src="./wooden-mallet.webp" alt="" width="1000" height="667" draggable="false" decoding="async">
+          <span class="contact-shadow"></span>
+          <img class="muyu-photo" src="./wooden-fish.webp" alt="" width="900" height="900" draggable="false" decoding="async">
+        </span>
+      </button>
+      <p class="hint"><span aria-hidden="true">轻敲</span> 点击木鱼，或按空格 / 回车</p>
+    </section>
+
+    <footer class="page-footer">
+      <p>每一次轻敲，都留在这台设备上</p>
+      <button type="button" class="reset-button" data-reset>重置功德</button>
+    </footer>
+    <p class="sr-only" data-status aria-live="polite" aria-atomic="true"></p>
+  </main>
+
+  <dialog class="reset-dialog" data-reset-dialog>
+    <form method="dialog">
+      <p class="eyebrow">重新开始</p>
+      <h2>确定重置功德吗？</h2>
+      <p class="dialog-copy">今日和累计功德都会清零，此操作无法撤销。</p>
+      <div class="dialog-actions">
+        <button type="submit" value="cancel" class="dialog-cancel">取消</button>
+        <button type="submit" value="confirm" class="dialog-confirm" data-confirm-reset>确认重置</button>
+      </div>
+    </form>
+  </dialog>
+
+  <noscript>请启用 JavaScript 后使用电子木鱼。</noscript>
+  <script src="./muyu.js"></script>
+</body>
+</html>

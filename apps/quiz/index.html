@@ -4,24 +4,28 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#eaf0ec">
-    <title>人格与思维方式综合评估</title>
-    <meta name="description" content="一份由 10 道题组成的娱乐问答测试。">
+    <title>情感取向与亲密关系综合评估</title>
+    <meta name="description" content="一份由 15 道题组成的娱乐问答测试。">
     <link rel="stylesheet" href="styles.css">
     <script src="quiz.js" defer></script>
   </head>
   <body>
     <main class="quiz-shell">
       <section class="quiz-card" data-view="welcome">
-        <p class="eyebrow">PERSONAL PATTERN REVIEW</p>
-        <h1>人格与思维方式综合评估</h1>
-        <p class="intro">通过 10 个日常问题，观察你的决策方式与思考偏好。</p>
+        <p class="eyebrow">RELATIONSHIP PREFERENCE REVIEW</p>
+        <h1 aria-label="情感取向与亲密关系综合评估">
+          <span class="title-line" aria-hidden="true">情感取向</span>
+          <span class="title-line" aria-hidden="true">与亲密关系</span>
+          <span class="title-line" aria-hidden="true">综合评估</span>
+        </h1>
+        <p class="intro">通过 15 个日常与社交情境问题，观察你在情感表达、关系建立与亲密互动中的偏好。</p>
         <button type="button" data-start>开始测试</button>
       </section>
 
       <section class="quiz-card" data-view="question" hidden>
         <header class="progress-header">
-          <span data-progress>第 1 题，共 10 题</span>
-          <progress data-progress-bar max="10" value="1">1/10</progress>
+          <span data-progress>第 1 题，共 15 题</span>
+          <progress data-progress-bar max="15" value="1">1/15</progress>
         </header>
         <form data-question-form>
           <fieldset>
@@ -34,8 +38,8 @@
 
       <section class="quiz-card analysis-card" data-view="analysis" hidden aria-live="polite">
         <div class="analysis-mark" aria-hidden="true"></div>
-        <h2>正在整理你的思维图谱</h2>
-        <p>交叉比对选择偏好与决策模式……</p>
+        <h2>正在分析你的情感倾向</h2>
+        <p>交叉比对社交方式、关系偏好与亲密互动模式……</p>
       </section>
 
       <section class="quiz-card result-card" data-view="result" hidden>

@@ -82,6 +82,47 @@ const QUESTIONS = Object.freeze([
       { value: "replan", label: "重新确认细节再行动" },
     ],
   },
+  {
+    id: "affection",
+    prompt: "当你开始在意某个人时，你更可能怎样表现？",
+    options: [
+      { value: "initiative", label: "主动创造更多相处机会" },
+      { value: "observe", label: "先观察彼此是否有默契" },
+    ],
+  },
+  {
+    id: "closeness",
+    prompt: "理想的亲密关系更接近下面哪一种状态？",
+    options: [
+      { value: "together", label: "经常分享生活与感受" },
+      { value: "space", label: "亲密同时保留个人空间" },
+    ],
+  },
+  {
+    id: "date",
+    prompt: "第一次和有好感的人单独见面，你更喜欢？",
+    options: [
+      { value: "planned", label: "提前安排好地点和活动" },
+      { value: "casual", label: "轻松见面，临场决定行程" },
+    ],
+  },
+  {
+    id: "attraction",
+    prompt: "一个人最容易因为什么让你产生好感？",
+    options: [
+      { value: "conversation", label: "交流时的理解与共鸣" },
+      { value: "actions", label: "相处中的行动与照顾" },
+      { value: "presence", label: "自然流露的气质与状态" },
+    ],
+  },
+  {
+    id: "expression",
+    prompt: "在一段关系里，你更习惯如何表达在意？",
+    options: [
+      { value: "direct", label: "直接说出自己的感受" },
+      { value: "subtle", label: "通过细节和行动表达" },
+    ],
+  },
 ].map((question) =>
   Object.freeze({
     ...question,

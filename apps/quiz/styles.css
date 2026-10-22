@@ -86,8 +86,12 @@ legend {
 }
 
 h1 {
-  max-width: 10ch;
   font-size: clamp(2rem, 7vw, 4.1rem);
+}
+
+.title-line {
+  display: block;
+  white-space: nowrap;
 }
 
 h2,

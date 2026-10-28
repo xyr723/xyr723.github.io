@@ -130,6 +130,17 @@ h1 {
   color: #b6a38f;
 }
 
+.toggle:disabled {
+  border-color: rgba(231, 187, 123, 0.12);
+  color: #8f8275;
+  background: rgba(255, 255, 255, 0.015);
+  cursor: not-allowed;
+}
+
+.toggle:disabled .toggle-state {
+  color: #a99a8a;
+}
+
 .merit-panel {
   position: relative;
   display: grid;
@@ -477,6 +488,11 @@ noscript {
     width: 44px;
     justify-content: center;
     padding-inline: 0;
+  }
+
+  .toggle:disabled {
+    width: auto;
+    padding-inline: 10px;
   }
 
   .toggle-label {

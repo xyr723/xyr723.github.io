@@ -119,13 +119,17 @@ function playWoodSound(browserWindow) {
   }
 }
 
+function supportsVibration(browserWindow) {
+  return typeof browserWindow?.navigator?.vibrate === "function";
+}
+
 function triggerVibration(browserWindow) {
   try {
-    if (typeof browserWindow.navigator.vibrate === "function") {
-      browserWindow.navigator.vibrate(18);
-    }
+    if (!supportsVibration(browserWindow)) return false;
+    return browserWindow.navigator.vibrate(18);
   } catch {
     // Vibration is optional and unsupported on many desktop browsers.
+    return false;
   }
 }
 
@@ -158,6 +162,7 @@ function bootstrapMuyu(documentObject, browserWindow) {
 
   const storage = getStorage(browserWindow);
   const reducedMotion = browserWindow.matchMedia("(prefers-reduced-motion: reduce)");
+  const vibrationSupported = supportsVibration(browserWindow);
   let state = loadState(storage);
   let announceTimer;
 
@@ -165,13 +170,15 @@ function bootstrapMuyu(documentObject, browserWindow) {
     elements.today.textContent = state.today.toLocaleString("zh-CN");
     elements.total.textContent = state.total.toLocaleString("zh-CN");
 
-    for (const [element, enabled] of [
-      [elements.sound, state.soundEnabled],
-      [elements.vibration, state.vibrationEnabled],
-    ]) {
-      element.setAttribute("aria-pressed", String(enabled));
-      element.querySelector(".toggle-state").textContent = enabled ? "开" : "关";
-    }
+    elements.sound.setAttribute("aria-pressed", String(state.soundEnabled));
+    elements.sound.querySelector(".toggle-state").textContent = state.soundEnabled ? "开" : "关";
+
+    elements.vibration.disabled = !vibrationSupported;
+    elements.vibration.setAttribute("aria-pressed", String(vibrationSupported && state.vibrationEnabled));
+    elements.vibration.querySelector(".toggle-state").textContent = vibrationSupported
+      ? (state.vibrationEnabled ? "开" : "关")
+      : "不支持";
+    elements.vibration.title = vibrationSupported ? "" : "当前浏览器不支持网页震动";
   }
 
   function persist() {
@@ -220,9 +227,11 @@ function bootstrapMuyu(documentObject, browserWindow) {
   });
 
   elements.vibration.addEventListener("click", () => {
+    if (!vibrationSupported) return;
     state = setPreference(state, "vibrationEnabled", !state.vibrationEnabled);
     render();
     persist();
+    if (state.vibrationEnabled) triggerVibration(browserWindow);
     announceSoon(`震动已${state.vibrationEnabled ? "开启" : "关闭"}`);
   });
 
@@ -263,6 +272,7 @@ const muyuApi = {
   saveState,
   setPreference,
   strike,
+  supportsVibration,
   bootstrapMuyu,
   playWoodSound,
   triggerVibration,
